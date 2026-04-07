@@ -540,6 +540,15 @@
         "5": {
             "name": "Embraer Phenom100",
             "liveries": [
+              {
+              "name": "ExcalJet Aviation",
+                    "texture": [
+                       "/models/aircraft/premium/phenom_100/normal.jpg",
+                       "/models/aircraft/premium/phenom_100/specular.jpg",
+                       "https://i.ibb.co/235NtpPg/Excal-Jet-Aviation-E50-P.png",
+                   ],
+                   "credits": "NelSal10"
+        }
             ],
             "labels": [
                 "Normal map",

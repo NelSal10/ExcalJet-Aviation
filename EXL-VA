@@ -863,10 +863,10 @@
             "name": "Boeing b747-8F",
             "liveries": [
                 {
-                    "name": "747-8F",
+                    "name": "ExcalJet Aviation",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8F/wing/original.png",
-                        "https://i.ibb.co/QF4qVP3Z/Excal-Jet-Aviation-B747-8-F.png"
+                        "https://i.ibb.co/BHxJvs5B/Excal-Jet-Aviation-B747-8-F.png"
                     ],
                     "credits": "NelSal10"
                 }

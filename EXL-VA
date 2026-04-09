@@ -422,7 +422,7 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "A350-900",
+                    "name": "ExcalJet Aviation",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/rRr3cWrf/Excal-Jet-Aviation-A350.png"

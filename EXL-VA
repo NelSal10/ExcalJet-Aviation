@@ -541,7 +541,7 @@
             "name": "Embraer Phenom100",
             "liveries": [
               {
-              "name": "Embraer Phenom100",
+              "name": "ExcalJet",
                     "texture": [
                        "/models/aircraft/premium/phenom_100/normal.jpg",
                        "/models/aircraft/premium/phenom_100/specular.jpg",

@@ -36,7 +36,7 @@
                     "texture": [
                         "/models/aircraft/premium/737_700/normal.jpg",
                         "/models/aircraft/premium/737_700/specular.jpg",
-                        "https://i.ibb.co/Xfwm3vSJ/B737-Freighter-1-EXLTST1.png"
+                        "https://i.ibb.co/xKjSFhD8/Excal-Jet-737-BCF.png"
                     ],
                     "credits": "NelSal10"
         }
@@ -863,9 +863,9 @@
             "name": "Boeing b747-8F",
             "liveries": [
                 {
-                    "name": "ExcalJet",
+                    "name": "ExcalJet Cargo",
                     "texture": [
-                        "https://i.ibb.co/99S7kr8T/Excal-Jet-Aviation-B747-8-F.png",
+                        "https://i.ibb.co/JWyvrjZ3/Excal-Jet-Cargo-B747-8-F.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8F/wing/original.png"
                     ],
                     "credits": "NelSal10"

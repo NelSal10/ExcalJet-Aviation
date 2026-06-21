@@ -149,7 +149,6 @@
              {
               "name": "ExcalJet Aviation",
                     "texture": [
-                        "/models/aircraft/premium/concorde/normals.jpg",
                         "/models/aircraft/premium/concorde/specular.jpg",
                         "https://i.ibb.co/zzWQXtJ/Excal-Jet-CONC.png"
                     ],

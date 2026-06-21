@@ -143,6 +143,7 @@
                 "Texture"
             ]
         },
+{
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
@@ -159,6 +160,7 @@
                 "Texture"
             ]
         },
+}
         "21": {
             "name": "Zlin Z-50",
             "liveries": [

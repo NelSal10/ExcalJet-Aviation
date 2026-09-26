@@ -480,6 +480,15 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/normal_0.jpg",
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/zhnqS8fm/EXL-B777-300-ERSF-NR.png"
+                    ],
+                    "credits": "NelSal10"
+        }
             ],
             "labels": [
                 "Specular shader",

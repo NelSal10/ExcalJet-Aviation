@@ -475,11 +475,11 @@
             "name": "Boeing b777-300ER",
             "liveries": [
               {
-              "name": "ExcalJet Cargo",
+              "name": "ExcalJet-Cargo",
                     "texture": [
                         "/models/aircraft/premium/777_300/normal_0.jpg",
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/Cp785pXc/EXL-b777-300ersf-testliv.jpg"
+                        "https://i.ibb.co/v6GGNkm9/EXL-B77-WLIV.jpg"
                     ],
                     "credits": "NelSal10"
         }

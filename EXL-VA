@@ -145,9 +145,7 @@
         },
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
-            "liveries": [
-            "texture":
-                    ],
+             "liveries": [
             ],
             "labels": [
                 "Normal map",
@@ -482,7 +480,7 @@
                         "https://i.ibb.co/v6GGNkm9/EXL-B77-WLIV.jpg"
                     ],
                     "credits": "NelSal10"
-            }
+               }
             ],
             "labels": [
                 "Specular shader",

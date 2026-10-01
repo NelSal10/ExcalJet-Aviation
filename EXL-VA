@@ -145,12 +145,9 @@
         },
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
-             "liveries": [
-             "texture": [
+            "liveries": [
             ],
             "labels": [
-                "Normal map",
-                "Specular shader",
                 "Texture"
             ]
         },

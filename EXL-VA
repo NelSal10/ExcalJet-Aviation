@@ -150,6 +150,7 @@
               "name": "ExcalJet-SST",
                     "texture": [
                         "/models/aircraft/premium/concorde/normal_0.png",
+                        "/models/aircraft/premium/concorde/specular_0.png",
                         "https://i.ibb.co/CK8FJQnm/Excal-Jet-CONC.webp"
                     ],
                     "credits": "NelSal10"

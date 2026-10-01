@@ -146,6 +146,14 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
              "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "/models/aircraft/premium/concorde/normal_0.png",
+                        "https://i.ibb.co/C5B8W7VZ/Excal-Jet-CONC.webp"
+                    ],
+                    "credits": "NelSal10"
+        }
             ],
             "labels": [
                 "Normal map",

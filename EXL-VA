@@ -423,7 +423,7 @@
               {
               "name": "ExcalJet",
                     "texture": [
-                        "/models/aircraft/premium/a350/specular.png",
+                        "/models/aircraft/premium/a350/normal.png",
                         "https://i.ibb.co/jBXfC6D/a350-Excal-Jet.webp"
                     ],
                     "credits": "NelSal10"

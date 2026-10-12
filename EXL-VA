@@ -246,6 +246,14 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/j9Gbk238/a350-Excal-Jet-RD.webp"
+                    ],
+                    "credits": "NelSal10"
+        }
             ],
             "labels": [
                 "Texture"

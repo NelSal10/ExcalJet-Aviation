@@ -421,9 +421,9 @@
             "name": "Airbus a350-900",
             "liveries": [
               {
-              "name": "ExcalJet",
+              "name": "ExcalJet Premium",
                     "texture": [
-                        "/models/aircraft/premium/a350/normal.jpg",
+                        "/models/aircraft/premium/a350/normal.png",
                         "https://i.ibb.co/jBXfC6D/a350-Excal-Jet.webp"
                     ],
                     "credits": "NelSal10"

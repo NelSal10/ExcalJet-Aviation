@@ -246,13 +246,6 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": [
-              {
-              "name": "ExcalJet Premium",
-                    "texture": [
-                        "https://i.ibb.co/j9Gbk238/a350-Excal-Jet-RD.webp"
-                    ],
-                    "credits": "NelSal10"
-        }
             ],
             "labels": [
                 "Texture"
@@ -427,6 +420,15 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "/models/aircraft/premium/a350/normal.png",
+                        "/models/aircraft/premium/a350/specular.png",
+                        "https://i.ibb.co/jBXfC6D/a350-Excal-Jet.webp"
+                    ],
+                    "credits": "NelSal10"
+        }
             ],
             "labels": [
                 "Specular shader",

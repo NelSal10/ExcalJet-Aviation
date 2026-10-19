@@ -877,7 +877,15 @@
         },
         "citation_267286_5961": {
             "name": "Cessna 550 Citation II",
-            "liveries": [],
+            "liveries": [
+              {
+              "name": "Cessna Citation ExcalJet",
+                    "texture": [
+                        "https://i.ibb.co/yBF6jZFf/S550-EXL-TBE.webp"
+                    ],
+                    "credits": "NelSal10"
+        }
+            ],
             "labels": [
                 "Texture"
             ],

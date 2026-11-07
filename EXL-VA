@@ -9,7 +9,7 @@
               {
               "name": "Concorde ExcalJet SST",
                     "texture": [
-                        "/models/aircraft/premium/concorde/normal.png",
+                        "/models/aircraft/premium/concorde/texture_0.png",
                         "https://i.ibb.co/1JtSzHxH/Excal-Jet-Concorde2.jpg"
                     ],
                     "credits": "NelSal10"

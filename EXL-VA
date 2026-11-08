@@ -9,7 +9,7 @@
               {
               "name": "Concorde",
                     "texture": [
-                        "/models/aircraft/premium/concorde/texture_2.png",
+                        "/models/aircraft/premium/concorde/normal_1.png",
                         "https://i.ibb.co/ddwKgmX/Concorde-Excaljet-W.webp"
                     ],
                     "credits": "NelSal10"

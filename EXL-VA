@@ -5,16 +5,7 @@
     "aircrafts": {
         "concorde": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
-            "liveries": [
-              {
-              "name": "ExcalJet",
-                    "texture": [
-                        "/models/aircraft/premium/concorde/texture_0.jpg",
-                        "https://i.ibb.co/ddwKgmX/Concorde-Excaljet-W.webp"
-                    ],
-                    "credits": "NelSal10"
-        }
-            ],
+            "liveries": [],
             "labels": [
                 "Texture"
             ],
@@ -154,7 +145,15 @@
         },
         "Airbus A330-300_781290_6012": {
             "name": "Airbus a330-300",
-            "liveries": [],
+            "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "https://i.ibb.co/C56xhP7C/A333-P2-F-Excal-Jet.png",
+                    ],
+                    "credits": "NelSal10"
+        }
+            ],
             "labels": [
                 "Texture"
             ],
@@ -234,16 +233,7 @@
         },
         "a350": {
             "name": "Airbus a350-900",
-            "liveries": [
-              {
-              "name": "A350 ExcalJet Premium",
-                    "texture": [
-                        "/models/aircraft/premium/a350/normal.png",
-                        "https://i.ibb.co/jBXfC6D/a350-Excal-Jet.webp"
-                    ],
-                    "credits": "NelSal10"
-        }
-            ],
+            "liveries": [],
             "labels": [
                 "Specular shader",
                 "Texture"
@@ -677,16 +667,7 @@
         },
         "777_300": {
             "name": "Boeing b777-300ER",
-            "liveries": [
-              {
-              "name": "ExcalJet",
-                    "texture": [
-                        "/models/aircraft/premium/777_300/normal_0.jpg",
-                        "https://i.ibb.co/MDc4ZqJK/Excal-Jet-B777-300-SF.webp"
-                    ],
-                    "credits": "NelSal10"
-               }
-            ],
+            "liveries": [],
             "labels": [
                 "Specular shader",
                 "Texture"

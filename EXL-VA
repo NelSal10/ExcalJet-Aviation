@@ -1117,7 +1117,17 @@
         },
         "phenom_100": {
             "name": "Embraer Phenom100",
-            "liveries": [],
+            "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "/models/aircraft/premium/phenom_100/normal.jpg",
+                        "/models/aircraft/premium/phenom_100/specular.jpg",
+                        "https://i.ibb.co/DDqFwv5r/Excal-Jet-Phenom-100-EXL.png"
+                    ],
+                    "credits": "NelSal10"
+        }
+            ],
             "labels": [
                 "Normal map",
                 "Specular shader",

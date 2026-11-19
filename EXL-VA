@@ -1,5 +1,5 @@
 {
-    "name": "ExcalJet",
+    "name": "Excaljet",
     "color": "white",
     "bgcolor": "white",
     "aircrafts": {
@@ -867,15 +867,7 @@
         },
         "citation_267286_5961": {
             "name": "Cessna 550 Citation II",
-            "liveries": [
-              {
-              "name": "Cessna Citation 550 ExcalJet",
-                    "texture": [
-                        "https://i.ibb.co/8n7JyGrR/S550-EXL-FNL.webp"
-                    ],
-                    "credits": "NelSal10"
-        }
-            ],
+            "liveries": [],
             "labels": [
                 "Texture"
             ],

@@ -1287,7 +1287,16 @@
         },
         "NK-V_267286_2525": {
             "name": "Ilyushin IL-76TD",
-            "liveries": [],
+            "liveries": [
+              {
+              "name": "ExcalJet",
+                    "texture": [
+                        "https://i.ibb.co/LzT03G0P/Il-76-EXL-NORG.png"
+                        "https://i.ibb.co/9mqgSgrw/IL-76-wing-texture.png",
+                    ],
+                    "credits": "NelSal10"
+        }
+            ],
             "labels": [
                 "Fuselage texture",
                 "Wing texture"
